@@ -35,6 +35,7 @@ module.exports = {
       "terms-content-bg": "url('/images/terms-bg.png')",
       "career-banner-bg": "url('/images/service-cta.png')",
       "blog-card-bg": "url('/images/Blog-bg.png')",
+      "join-us-bg": "url('/images/join-us-bg.png')",
     },
     container: {
       center: true,
